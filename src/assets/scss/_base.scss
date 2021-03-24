@@ -1,0 +1,29 @@
+body {
+	background: #fafafa;
+	font-size: 16px;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+.container {
+	width: 600px;
+	padding: 0 20px;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.title {
+	font-size: 36px;
+	text-transform: capitalize;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.mt-50 {
+	margin-top: 50px;
+}
+
+.mb-50 {
+	margin-bottom: 50px;
+}
